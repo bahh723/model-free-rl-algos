@@ -6,4 +6,4 @@ The paper was accepted at [ICML 2020](https://icml.cc/Conferences/2020), and the
 
 This paper proposes two model-free algorithms for tabular MDPs. The first algorithm _Optimistic Discounted Q-learning_ achieves a regret bound of _O(T<sup>2/3</sup>)_ in weakly-communicating MDPs; the second algorithm _MDP-OOMD_ achieves a regret bound of _O(T<sup>1/2</sup>)_ in ergodic MDPs. 
 
-The codes are jointly implemented by Mehdi Jafarnia-Jahromi and Chen-Yu Wei. 
+The codes are implemented jointly by Mehdi Jafarnia-Jahromi and Chen-Yu Wei. 

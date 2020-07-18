@@ -1,5 +1,4 @@
 # model-free-rl-algos
-=====================
 
 This repository contains source codes for the paper titled _Model-free Reinforcement Learning in Infinite-horizon Average-reward Markov Decision Processes_ authored by
 Chen-Yu Wei, Mehdi Jafarnia-Jahromi, Haipeng Luo, Hiteshi Sharma, Rahul Jain. 
